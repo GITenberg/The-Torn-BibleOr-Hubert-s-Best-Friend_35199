@@ -1,0 +1,28 @@
+_repo: The-Torn-BibleOr-Hubert-s-Best-Friend_35199
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35199-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Somerton, Alice
+    gutenberg_agent_id: '37523'
+    url: http://www.gutenberg.org/2009/agents/37523
+description: ''
+gutenberg_issued: '2011-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35199'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Repentance -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+title: The Torn Bible; Or, Hubert's Best Friend
+url: http://www.gutenberg.org/ebooks/35199
